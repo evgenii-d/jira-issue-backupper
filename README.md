@@ -1,4 +1,4 @@
-# Jira Issue Backupper
+# Jira Issue Exporter
 
 Save jira issues as `.doc` and `.xml` using JIRA REST API.
 
